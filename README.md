@@ -1,6 +1,6 @@
-Welcome! 
-Bachelor Science of Information Technology (BSIT)
-SHAIRA V. FORTO
+# Welcome! 
+## Bachelor Science of Information Technology (BSIT)
+### SHAIRA V. FORTO
 
 - 19 years of age
 - Single
