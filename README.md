@@ -11,15 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Welcome! 
+Bachelor Science of Information Technology (BSIT)
+SHAIRA V. FORTO
 
-- Bulleted
-- List
+- 19 years of age
+- Single
 
-1. Numbered
-2. List
+Shaira's Hobbies
+- Dance
+- Watching KDRAMA
+- Listen to Music 
 
 **Bold** and _Italic_ and `Code` text
 
